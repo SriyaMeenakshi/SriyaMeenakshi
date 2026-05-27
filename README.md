@@ -1,152 +1,202 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,20:14001f,40:4B0082,60:8A2BE2,80:FF1493,100:1E90FF&text=SRIYA%20MEENAKSHI&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=AI%20%26%20ML%20ENGINEER%20%7C%20OPEN%20SOURCE%20CONTRIBUTOR%20%7C%20SPACE%20EXPLORER&descAlignY=55&descSize=20"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=INITIALIZING+QUANTUM+CORE...;SRIYA;AI+%26+ML+UNDERGRAD+%7C+OPEN+SOURCE+CONTRIBUTOR;SPACE+CURIOUS+%7C+FUTURE+TECH+EXPLORER"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=BB86FC&center=true&vCenter=true&width=850&lines=SYSTEM+BOOTING...;Jarvis+Online+%F0%9F%A4%96;Training+AI+Models+%E2%9A%A1;Building+Future-Tech+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%8C;Friendly+Neighborhood+AI+Engineer+%F0%9F%95%B7%EF%B8%8F;I+Love+You+3000."/>
+<img src="https://user-images.githubusercontent.com/74038190/212749695-0429a338-6d2d-4f8f-8f86-f24d273f0d28.gif" width="550">
 
-<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="180"/>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=SriyaMeenakshi&label=VISITORS&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=SriyaMeenakshi&label=VISITORS&color=8A2BE2&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🌌 MULTIVERSE TERMINAL
+# 🌌 SYSTEM PROFILE
 
-```cpp
-class SriyaMeenakshi {
+```python
 
-public:
+class Sriya:
 
-string role =
-"AI & ML Engineer";
+    role = "AI & ML Undergraduate"
 
-string mission =
-"Building intelligent systems and cinematic web experiences";
+    identity = [
 
-string powers[6]={
-"Machine Learning",
-"Competitive Programming",
-"Open Source",
-"React",
-"Python",
-"AI Systems"
-};
+        "Open Source Contributor",
+        "Future Technology Explorer",
+        "Physics Admirer",
+        "Hobbyist Photographer"
 
-};
+    ]
+
+    interests = [
+
+        "Artificial Intelligence",
+        "Quantum Curiosity",
+        "Open Source",
+        "Future Technology",
+        "Competitive Programming",
+        "Technology Exploration"
+
+    ]
+
+    mission = \
+    "Build. Learn. Explore."
+
 ```
 
 ---
 
-## 🛰️ ABOUT ME
+# 🚀 ABOUT ME
 
-🕸️ CSE (AI & ML) Engineering Student
+⚛️ AI & ML undergraduate exploring technology and intelligent systems
 
-🌌 Exploring AI + Web + Space Inspired Interfaces
+🌌 Curious about space, physics and quantum concepts
 
-⚡ Open Source Contributor (GSSoC '26 | NSoC | SSoC)
+📸 Hobbyist photographer
 
-🏆 Google Solution Challenge 2025
-Top 105 Teams Globally
-Project: **KAMADHENU**
+⚡ Open source contributor learning through building
 
-🚀 Building futuristic systems combining:
+💻 Exploring future technology and software development
 
-- Artificial Intelligence
-- Full Stack Development
-- Competitive Programming
-- Human-Centered Technology
-
-💡 Current Mission:
-
-> Upgrading web-shooters with AI and building tech that matters.
+🧠 Multiple interests. Always learning.
 
 ---
 
-## ⚙️ STARK INDUSTRIES ARMORY
+# ⚙️ TECH STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,typescript,react,nextjs,nodejs,tailwind,mongodb,git,github,linux&perline=6"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,typescript&perline=6"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,git,github&perline=6"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=linux&perline=1"/>
+
+</div>
+
+---
+
+# 🌠 OPEN SOURCE PROTOCOL
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/GSSoC-'26-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NSoC-CONTRIBUTOR-7B68EE?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SSoC-OPEN_SOURCE-00BFFF?style=for-the-badge"/>
+
+</div>
+
+```terminal
+
+STATUS :: ACTIVE
+
+MISSION ::
+
+BUILD
+
+LEARN
+
+CONTRIBUTE
+
+COLLABORATE
+
+```
+
+---
+
+# 🛰️ MISSION ARCHIVE
+
+| EVENT | ACHIEVEMENT |
+|--------|-------------|
+| 🏆 Google Solution Challenge 2025 | Top 105 Teams Globally |
+| 🐄 Project Kamadhenu | AI + Impact |
+| ⚕️ MedTech Hackathon | Project ArogyaDrishti |
+| 🛣️ National Road Safety Hackathon | Project MAARG SETU |
+| ❄️ Snowflake AI For Good | Inventory Heatmap + Stock Alert |
+
+---
+
+# 💻 DEV WORKSTATION
+
+```yaml
+
+LANGUAGES:
+
+- C
+- C++
+- Python
+- Java
+- JavaScript
+- TypeScript
+
+CURRENT_FOCUS:
+
+- Open Source
+- AI & ML
+- Problem Solving
+- Future Technology
+
+```
+
+---
+
+# 🌌 SPACE CURIOSITY
+
+```diff
+
++ Curious about physics and quantum concepts
+
++ Space fascination mode : ACTIVE
+
++ Hobbyist Photographer
+
++ Exploring multiple domains
+
+```
+
+---
+
+# 📊 GITHUB TELEMETRY
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SriyaMeenakshi&theme=tokyonight"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Machine_Learning-purple?style=for-the-badge&logo=scikitlearn"/>
-
-<img src="https://img.shields.io/badge/OpenCV-black?style=for-the-badge&logo=opencv"/>
-
-<img src="https://img.shields.io/badge/Streamlit-FF1493?style=for-the-badge&logo=streamlit"/>
-
-<img src="https://img.shields.io/badge/Open_Source-8A2BE2?style=for-the-badge&logo=github"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SriyaMeenakshi&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📊 JARVIS TELEMETRY
+# 🌐 CONNECT
 
 <div align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=SriyaMeenakshi&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=000000"/>
+<a href="YOUR_LINKEDIN">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriyaMeenakshi&layout=compact&theme=midnight-purple&hide_border=true&bg_color=000000"/>
+<img src="https://img.shields.io/badge/LINKEDIN-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SriyaMeenakshi&theme=midnight-purple&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 ACHIEVEMENTS
-
-🚀 Google Solution Challenge 2025
-
-⭐ Top 105 Teams Globally
-
-🐄 Project Kamadhenu
-
-⚕️ MedTech Hackathon 2026
-Project ArogyaDrishti
-
-🛣️ National Road Safety Hackathon 2025
-
-AI Powered Smart Safety Cost Estimator
-
-❄️ Snowflake AI for Good
-
-Inventory Heatmap + Stock Alert System
-
----
-
-## 🕷️ STARK PROTOCOLS
-
-> "If you're nothing without this suit, then you shouldn't have it."
-
-— Tony Stark
-
----
-
-<div align="center">
-
-### 🌠 CONNECT TO THE MULTIVERSE
-
-<a href="https://linkedin.com/in/sriya-meenakshi-chalamalasetty">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_GMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://github.com/SriyaMeenakshi">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+
+<img src="https://img.shields.io/badge/GMAIL-BB86FC?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 </div>
@@ -155,12 +205,10 @@ Inventory Heatmap + Stock Alert System
 
 <div align="center">
 
-⭐ "Part of the journey is the end."
+> "Nature isn't classical, dammit, and if you want to make a simulation of nature, you'd better make it quantum mechanical."
 
-❤️ I love you 3000.
-
-🌌 Built with coffee, curiosity, and cosmic energy.
+— Richard Feynman
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:000000,30:4B0082,70:FF1493,100:1E90FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,25:4B0082,50:BB86FC,75:FF1493,100:00FFFF"/>
