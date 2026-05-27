@@ -1,93 +1,166 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1c31,100:6c5ce7&height=220&section=header&text=Sriya%20Meenakshi&fontSize=65&fontAlignY=30&animation=twinkling&fontColor=fff&desc=SPACE-GAMER%20%2F%2F%20AI%20PILOT&descAlignY=55&descSize=20&descColor=00f2fe" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00f2fe&center=true&vCenter=true&width=600&lines=CSE+(AI+%26+ML)+Pilot;Building+Future-Tech%2C+One+Line+of+Code+at+a+Time;Exploratory+Photographer+%7C+Video+Creator;Open+Source+Contributor+(NSoC%2C+GSSoC%2C+SSoC)" alt="Typing SVG" />
-  </a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,20:14001f,40:4B0082,60:8A2BE2,80:FF1493,100:1E90FF&text=SRIYA%20MEENAKSHI&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=AI%20%26%20ML%20ENGINEER%20%7C%20OPEN%20SOURCE%20CONTRIBUTOR%20%7C%20SPACE%20EXPLORER&descAlignY=55&descSize=20"/>
 
-  <br />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1000&color=BB86FC&center=true&vCenter=true&width=850&lines=SYSTEM+BOOTING...;Jarvis+Online+%F0%9F%A4%96;Training+AI+Models+%E2%9A%A1;Building+Future-Tech+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%8C;Friendly+Neighborhood+AI+Engineer+%F0%9F%95%B7%EF%B8%8F;I+Love+You+3000."/>
 
-  <p align="center">
-    <strong>Initializing Player Profile...</strong><br />
-    <img src="https://raw.githubusercontent.com/MartinVeric/MartinVeric/master/assets/pfp.gif" width="120" alt="Space Pilot Animation" /><br />
-    <strong>Sriya Meenakshi // Call Sign: AI-EXPLORER</strong><br />
-    CSE Engineering Student with a specialty in AI & ML. Navigating complex algorithms by day, and exploring the cosmos by night. I blend cutting-edge technology with a love for photography, creating visual narratives across the digital frontier. My mission? To push the boundaries of tech and space.
-  </p>
+<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="180"/>
+
+<img src="https://komarev.com/ghpvc/?username=SriyaMeenakshi&label=VISITORS&color=blueviolet&style=for-the-badge"/>
+
 </div>
 
 ---
 
-### 🛡️ Open Source Contribution Log [Unlocked Achievements]
+# 🌌 MULTIVERSE TERMINAL
 
-I am a passionate explorer of the open-source galaxy, having served on critical missions with the following programs:
+```cpp
+class SriyaMeenakshi {
 
-<div align="center">
-  <img src="https://img.shields.io/badge/NSoc-Contributor-a951ed?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSSoC-Contributor-ff007f?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/SSoC-Contributor-00f2fe?style=for-the-badge&logo=github&logoColor=white" />
-</div>
+public:
 
-<br />
+string role =
+"AI & ML Engineer";
 
----
+string mission =
+"Building intelligent systems and cinematic web experiences";
 
-### 🛠️ Armory / Tech Stack
+string powers[6]={
+"Machine Learning",
+"Competitive Programming",
+"Open Source",
+"React",
+"Python",
+"AI Systems"
+};
 
-These are the tools and technologies in my arsenal. Select a category to see my proficiency level.
-
-<div align="center">
-  <p align="center"><strong>Core Combat Skills</strong></p>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <br /><br />
-  <p align="center"><strong>Support Systems</strong></p>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photography-000?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-</div>
-
-<br />
+};
+```
 
 ---
 
-### 📊 Player Stats
+## 🛰️ ABOUT ME
 
-A dynamic view of my performance and contributions in the GitHub galaxy.
+🕸️ CSE (AI & ML) Engineering Student
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SriyaMeenakshi&show_icons=true&theme=synthwave&hide_border=true&title_color=00f2fe&icon_color=a951ed" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriyaMeenakshi&layout=compact&theme=synthwave&hide_border=true&title_color=00f2fe" height="195" alt="Top Languages" />
-</div>
+🌌 Exploring AI + Web + Space Inspired Interfaces
 
-<br />
+⚡ Open Source Contributor (GSSoC '26 | NSoC | SSoC)
 
----
+🏆 Google Solution Challenge 2025
+Top 105 Teams Globally
+Project: **KAMADHENU**
 
-### 📡 Telemetry / Let's Connect
+🚀 Building futuristic systems combining:
 
-Ready to join my squad or collaborate on a new mission? Send a signal through these frequencies:
+- Artificial Intelligence
+- Full Stack Development
+- Competitive Programming
+- Human-Centered Technology
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/sriya-meenakshi-chalamalasetty/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
+💡 Current Mission:
 
-<br />
+> Upgrading web-shooters with AI and building tech that matters.
 
 ---
 
-### 🪐 Deep Space Exploration Log
-
-* **Current Mission:** [ArogyaDrishti] - Building an accessible, non-invasive AI healthcare app with Team Lumora at MedTech Hackathon 2026.
-* **Favorite View:** Appikonda Beach, after a 4-day innovation marathon.
-* **Inspiring Figures:** Dr. A. P. J. Abdul Kalam (the legacy of inspiration).
-
-* "The true power of AI lies in solving real societal problems. Let's build a better future."
+## ⚙️ STARK INDUSTRIES ARMORY
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/L4N4rk/L4N4rk/master/star_trails.gif" width="200" alt="Star Trails Animation" />
+
+<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,typescript,react,nextjs,nodejs,tailwind,mongodb,git,github,linux&perline=6"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Machine_Learning-purple?style=for-the-badge&logo=scikitlearn"/>
+
+<img src="https://img.shields.io/badge/OpenCV-black?style=for-the-badge&logo=opencv"/>
+
+<img src="https://img.shields.io/badge/Streamlit-FF1493?style=for-the-badge&logo=streamlit"/>
+
+<img src="https://img.shields.io/badge/Open_Source-8A2BE2?style=for-the-badge&logo=github"/>
+
 </div>
+
+---
+
+## 📊 JARVIS TELEMETRY
+
+<div align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=SriyaMeenakshi&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=000000"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriyaMeenakshi&layout=compact&theme=midnight-purple&hide_border=true&bg_color=000000"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=SriyaMeenakshi&theme=midnight-purple&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 ACHIEVEMENTS
+
+🚀 Google Solution Challenge 2025
+
+⭐ Top 105 Teams Globally
+
+🐄 Project Kamadhenu
+
+⚕️ MedTech Hackathon 2026
+Project ArogyaDrishti
+
+🛣️ National Road Safety Hackathon 2025
+
+AI Powered Smart Safety Cost Estimator
+
+❄️ Snowflake AI for Good
+
+Inventory Heatmap + Stock Alert System
+
+---
+
+## 🕷️ STARK PROTOCOLS
+
+> "If you're nothing without this suit, then you shouldn't have it."
+
+— Tony Stark
+
+---
+
+<div align="center">
+
+### 🌠 CONNECT TO THE MULTIVERSE
+
+<a href="https://linkedin.com/in/sriya-meenakshi-chalamalasetty">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_GMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/SriyaMeenakshi">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ "Part of the journey is the end."
+
+❤️ I love you 3000.
+
+🌌 Built with coffee, curiosity, and cosmic energy.
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:000000,30:4B0082,70:FF1493,100:1E90FF"/>
