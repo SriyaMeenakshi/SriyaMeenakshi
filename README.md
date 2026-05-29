@@ -16,7 +16,7 @@
 
 ```python
 
-class Sriya:
+class Sriya Meenakshi:
 
     role = "AI & ML Undergraduate"
 
