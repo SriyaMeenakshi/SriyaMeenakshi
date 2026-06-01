@@ -36,7 +36,8 @@ class Sriya Meenakshi:
         "Open Source",
         "Future Technology",
         "Competitive Programming",
-        "Technology Exploration"
+        "Technology Exploration",
+        "Arts and Crafts"
 
     ]
 
