@@ -1,66 +1,90 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=INITIALIZING+QUANTUM+CORE...;SRIYA;AI+%26+ML+UNDERGRAD+%7C+OPEN+SOURCE+CONTRIBUTOR;SPACE+CURIOUS+%7C+FUTURE+TECH+EXPLORER"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=BOOTING+VISION+CORE...;SRIYA+MEENAKSHI;TEACHING+MACHINES+TO+SEE+%7C+AI+%26+ML+UNDERGRAD;FROM+PIXELS+TO+PLANETS+%F0%9F%9B%B0%EF%B8%8F"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212749695-0429a338-6d2d-4f8f-8f86-f24d273f0d28.gif" width="550">
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=SriyaMeenakshi&label=VISITORS&color=8A2BE2&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=SriyaMeenakshi&label=VISITORS&color=00E5FF&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🌌 SYSTEM PROFILE
+# 🌸 MY SAKURA TREE
+
+<div align="center">
+
+<img src="assets/plant.svg" alt="A cherry blossom tree that grows with my GitHub activity" width="100%"/>
+
+<sub>🌸 A little sakura tree under a moonlit sky, **redrawn every night** by a GitHub Action.<br>
+More commits → bigger tree &nbsp;·&nbsp; my languages → flower-centre colours &nbsp;·&nbsp; a streak → glowing fairy lights ✨<br>
+a golden retriever puppy 🐶 guards the tree while a puppy-faced lantern floats by 🏮<br>
+the soft pink box is a tiny "object detector" saying hi 👁️</sub>
+
+</div>
+
+---
+
+# 👁️ SYSTEM PROFILE
 
 ```python
-
-class Sriya Meenakshi:
+class SriyaMeenakshi:
 
     role = "AI & ML Undergraduate"
 
     identity = [
-
+        "Computer Vision Learner",
         "Open Source Contributor",
-        "Future Technology Explorer",
-        "Physics Admirer",
-        "Hobbyist Photographer"
-
+        "Space Physics Admirer",
+        "Hobbyist Photographer",
     ]
 
     interests = [
-
-        "Artificial Intelligence",
-        "Quantum Curiosity",
+        "Computer Vision",
+        "Astrophysics & Orbital Mechanics",
+        "Satellite & Telescope Imagery",
         "Open Source",
-        "Future Technology",
         "Competitive Programming",
-        "Technology Exploration",
-        "Arts and Crafts"
-
+        "Arts and Crafts",
     ]
 
-    mission = \
-    "Build. Learn. Explore."
-
+    mission = "See. Understand. Explore."
 ```
 
 ---
 
 # 🚀 ABOUT ME
 
-⚛️ AI & ML undergraduate exploring technology and intelligent systems
+👁️ AI & ML undergraduate teaching machines to *see*
 
-🌌 Curious about space, physics and quantum concepts
+🔭 Fascinated by space, orbital mechanics, black holes and how we image the universe
 
-📸 Hobbyist photographer
+📸 Hobbyist photographer, so I already think in frames, light and exposure
 
 ⚡ Open source contributor learning through building
 
-💻 Exploring future technology and software development
+🛰️ Dream project: computer vision on space imagery
 
-🧠 Multiple interests. Always learning.
+---
+
+# 🧪 VISION PIPELINE
+
+```mermaid
+flowchart LR
+    A[🔭 Raw Photons] --> B[📷 Sensor / Image]
+    B --> C[🧹 Denoise & Calibrate]
+    C --> D[🧠 CNN / Vision Transformer]
+    D --> E[🎯 Detect · Segment · Track]
+    E --> F[🌌 Insight]
+```
+
+```text
+>> scanning frame ................ ok
+>> objects detected .............. stars, craters, curious humans
+>> confidence .................... 0.97
+```
 
 ---
 
@@ -72,11 +96,11 @@ class Sriya Meenakshi:
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,git,github&perline=6"/>
+<img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow,react,nextjs,nodejs&perline=6"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=linux&perline=1"/>
+<img src="https://skillicons.dev/icons?i=tailwind,git,github,linux&perline=4"/>
 
 </div>
 
@@ -87,27 +111,19 @@ class Sriya Meenakshi:
 <div align="center">
 
 <img src="https://img.shields.io/badge/GSSoC-'26-8A2BE2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/NSoC-CONTRIBUTOR-7B68EE?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SSoC-OPEN_SOURCE-00BFFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NSoC-CONTRIBUTOR-00BFFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SSoC-OPEN_SOURCE-00E5FF?style=for-the-badge"/>
 
 </div>
 
 ```terminal
-
 STATUS :: ACTIVE
 
 MISSION ::
-
 BUILD
-
 LEARN
-
 CONTRIBUTE
-
 COLLABORATE
-
 ```
 
 ---
@@ -124,42 +140,47 @@ COLLABORATE
 
 ---
 
-# 💻 DEV WORKSTATION
+# 🌌 SPACE PHYSICS CORNER
 
-```yaml
+```python
+import math
 
-LANGUAGES:
+G  = 6.674e-11        # gravitational constant
+M  = 5.972e24         # mass of Earth (kg)
+r  = 6.771e6          # ~400 km orbit (m)
 
-- C
-- C++
-- Python
-- Java
-- JavaScript
-- TypeScript
+v  = math.sqrt(G * M / r)             # orbital speed
+T  = 2 * math.pi * math.sqrt(r**3 / (G * M))   # period
 
-CURRENT_FOCUS:
+print(f"v = {v/1000:.2f} km/s,  one lap every {T/60:.0f} min")
+# v = 7.67 km/s,  one lap every 92 min  -> the ISS sees ~16 sunrises a day
+```
 
-- Open Source
-- AI & ML
-- Problem Solving
-- Future Technology
-
+```diff
++ Orbital mechanics & gravity
++ Black holes, event horizons & gravitational lensing
++ Exoplanet transits: dips in starlight a camera can catch
++ Telescope imagery: where computer vision meets cosmology
 ```
 
 ---
 
-# 🌌 SPACE CURIOSITY
+# 💻 DEV WORKSTATION
 
-```diff
+```yaml
+LANGUAGES:
+  - C
+  - C++
+  - Python
+  - Java
+  - JavaScript
+  - TypeScript
 
-+ Curious about physics and quantum concepts
-
-+ Space fascination mode : ACTIVE
-
-+ Hobbyist Photographer
-
-+ Exploring multiple domains
-
+CURRENT_FOCUS:
+  - Computer Vision
+  - Open Source
+  - AI & ML
+  - Space x AI
 ```
 
 ---
@@ -183,21 +204,15 @@ CURRENT_FOCUS:
 <div align="center">
 
 <a href="YOUR_LINKEDIN">
-
-<img src="https://img.shields.io/badge/LINKEDIN-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/SriyaMeenakshi">
-
 <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github"/>
-
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-
-<img src="https://img.shields.io/badge/GMAIL-BB86FC?style=for-the-badge&logo=gmail&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/GMAIL-00E5FF?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
 </div>
@@ -206,10 +221,10 @@ CURRENT_FOCUS:
 
 <div align="center">
 
-> "Nature isn't classical, dammit, and if you want to make a simulation of nature, you'd better make it quantum mechanical."
+> "We are a way for the cosmos to know itself."
 
-— Richard Feynman
+— Carl Sagan
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,25:4B0082,50:BB86FC,75:FF1493,100:00FFFF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,25:0D0A24,50:00E5FF,75:8A2BE2,100:FF4FD8"/>
