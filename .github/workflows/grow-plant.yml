@@ -1,0 +1,36 @@
+name: Grow sakura tree
+
+on:
+  schedule:
+    - cron: "30 18 * * *"   # every night, ~00:00 IST
+  workflow_dispatch:         # lets you press "Run workflow" to test it
+  push:
+    paths:
+      - "scripts/grow_plant.py"
+
+permissions:
+  contents: write
+
+jobs:
+  grow:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Draw the sakura
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: python scripts/grow_plant.py
+
+      - name: Commit the new sakura
+        run: |
+          git config user.name  "cosmic-gardener[bot]"
+          git config user.email "cosmic-gardener@users.noreply.github.com"
+          git add assets/plant.svg
+          git diff --staged --quiet || git commit -m "🌱 nightly growth"
+          git push
