@@ -203,7 +203,7 @@ CURRENT_FOCUS:
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/sriya-meenakshi-chalamalasetty">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -211,7 +211,7 @@ CURRENT_FOCUS:
 <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:chsriyameenu2818@gmail.com">
 <img src="https://img.shields.io/badge/GMAIL-00E5FF?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
