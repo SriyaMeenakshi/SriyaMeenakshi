@@ -221,7 +221,7 @@ CURRENT_FOCUS:
 
 <div align="center">
 
-> "We are a way for the cosmos to know itself."
+> "The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself."
 
 — Carl Sagan
 
