@@ -132,7 +132,8 @@ COLLABORATE
 
 | EVENT | ACHIEVEMENT |
 |--------|-------------|
-| 🏆 Google Solution Challenge 2025 | Top 105 Teams Globally |
+| 🏆 Hacktoberfest Hack Day 2026  | Won Best Open-Source project |
+| 🎉 Google Solution Challenge 2025 | Top 105 Teams Globally |
 | 🐄 Project Kamadhenu | AI + Impact |
 | ⚕️ MedTech Hackathon | Project ArogyaDrishti |
 | 🛣️ National Road Safety Hackathon | Project MAARG SETU |
