@@ -20,7 +20,7 @@
 
 <sub>🌸 A little sakura tree under a moonlit sky, **redrawn every night** by a GitHub Action.<br>
 More commits → bigger tree &nbsp;·&nbsp; my languages → flower-centre colours &nbsp;·&nbsp; a streak → glowing fairy lights ✨<br>
-a golden retriever puppy 🐶 guards the tree while a puppy-faced lantern floats by 🏮<br>
+a golden retriever puppy 🐶 guards the tree while a glowing sky lantern floats by 🏮<br>
 the soft pink box is a tiny "object detector" saying hi 👁️</sub>
 
 </div>
@@ -132,8 +132,7 @@ COLLABORATE
 
 | EVENT | ACHIEVEMENT |
 |--------|-------------|
-| 🏆 Hacktoberfest Hack Day 2026  | Won Best Open-Source project |
-| 🎉 Google Solution Challenge 2025 | Top 105 Teams Globally |
+| 🏆 Google Solution Challenge 2025 | Top 105 Teams Globally |
 | 🐄 Project Kamadhenu | AI + Impact |
 | ⚕️ MedTech Hackathon | Project ArogyaDrishti |
 | 🛣️ National Road Safety Hackathon | Project MAARG SETU |
@@ -204,7 +203,7 @@ CURRENT_FOCUS:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sriya-meenakshi-chalamalasetty">
+<a href="YOUR_LINKEDIN">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -212,7 +211,7 @@ CURRENT_FOCUS:
 <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="mailto:chsriyameenu2818@gmail.com">
+<a href="mailto:YOUR_EMAIL">
 <img src="https://img.shields.io/badge/GMAIL-00E5FF?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
@@ -222,7 +221,7 @@ CURRENT_FOCUS:
 
 <div align="center">
 
-> "The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself."
+> "We are a way for the cosmos to know itself."
 
 — Carl Sagan
 

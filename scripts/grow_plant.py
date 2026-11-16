@@ -306,24 +306,15 @@ def build(data):
       '<ellipse cx="-9" cy="-27" rx="2.2" ry="1.3" fill="#ff8fb4" opacity=".7"/>'
       '<ellipse cx="9" cy="-27" rx="2.2" ry="1.3" fill="#ff8fb4" opacity=".7"/></g>')
 
-    # flying lanterns: one with a puppy face, two tiny ones far away
+    # flying lanterns: one glowing sky lantern, two tiny ones far away
     for lx_, ly_, sc_, op_, dl in [(80, 120, .4, .6, 1.2), (330, 70, .32, .5, 2.6)]:
         a(f'<g transform="translate({lx_} {ly_}) scale({sc_})" opacity="{op_}"><g class="float" style="animation-delay:{dl}s">'
           '<path d="M-20,-26 Q-26,0 -14,26 L14,26 Q26,0 20,-26 Z" fill="#ffcf70"/></g></g>')
     a('<g transform="translate(165 225)"><g class="float">'
       '<circle cx="0" cy="0" r="58" fill="url(#halo)"/>'
-      '<ellipse cx="-19" cy="-22" rx="7" ry="13" transform="rotate(18 -19 -22)" fill="#c98a3a"/>'
-      '<ellipse cx="19" cy="-22" rx="7" ry="13" transform="rotate(-18 19 -22)" fill="#c98a3a"/>'
       '<path d="M-22,-26 Q-30,0 -17,30 L17,30 Q30,0 22,-26 Z" fill="#ffd77c" filter="url(#glow)"/>'
       '<ellipse cx="0" cy="-26" rx="22" ry="5" fill="#f0bf6e"/>'
-      '<ellipse cx="0" cy="8" rx="11" ry="8" fill="#fff0c4"/>'
-      '<ellipse cx="0" cy="4" rx="3.2" ry="2.4" fill="#2a1520"/>'
-      '<path d="M-4,9 Q0,13 4,9" fill="none" stroke="#2a1520" stroke-width="1.3" stroke-linecap="round"/>'
-      '<ellipse cx="0" cy="14" rx="2.4" ry="3.2" fill="#ff8fb4"/>'
-      '<g class="blink"><circle cx="-8" cy="-4" r="2.4" fill="#2a1520"/><circle cx="8" cy="-4" r="2.4" fill="#2a1520"/>'
-      '<circle cx="-7.2" cy="-5" r=".8" fill="#fff"/><circle cx="8.8" cy="-5" r=".8" fill="#fff"/></g>'
-      '<ellipse cx="-14" cy="5" rx="3.2" ry="2" fill="#ff8fb4" opacity=".75"/>'
-      '<ellipse cx="14" cy="5" rx="3.2" ry="2" fill="#ff8fb4" opacity=".75"/>'
+      '<ellipse cx="0" cy="2" rx="9" ry="14" fill="#fff0c4" opacity=".55"/>'
       '<path class="flame" d="M0,31 Q-4,38 0,45 Q4,38 0,31Z" fill="#ff9a3c" filter="url(#glow)"/>'
       '</g></g>')
 
