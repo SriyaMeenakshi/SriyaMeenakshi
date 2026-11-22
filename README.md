@@ -18,7 +18,7 @@
 
 <img src="assets/plant.svg" alt="A cherry blossom tree that grows with my GitHub activity" width="100%"/>
 
-<sub>🌸 A little sakura tree under a moonlit sky, **redrawn every night** by a GitHub Action.<br>
+<sub>🌸 A little cherry blossom tree under a moonlit sky, **redrawn every night** by a GitHub Action.<br>
 More commits → bigger tree &nbsp;·&nbsp; my languages → flower-centre colours &nbsp;·&nbsp; a streak → glowing fairy lights ✨<br>
 a golden retriever puppy 🐶 guards the tree while a glowing sky lantern floats by 🏮<br>
 the soft pink box is a tiny "object detector" saying hi 👁️</sub>
